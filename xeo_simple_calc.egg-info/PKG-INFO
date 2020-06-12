@@ -1,21 +1,47 @@
 Metadata-Version: 1.2
 Name: xeo-simple-calc
-Version: 0.0.2
+Version: 0.0.3
 Summary: A small basic calculator
-Home-page: UNKNOWN
-Author: Grigoriy Agasiyants
+Home-page: https://github.com/XeoPlay/xeo-simple-calc
+Author: XeoPlay
 Author-email: xeoplay123456@gmail.com
 License: UNKNOWN
-Description: This is a calculator made with a yt tutorial. You can add, subtract, multiply or divide 2 numbers. The functions are add() subtract() multiply() float_divide() and int_divide()
-        float_divide() returns a float, int_divide() returns an int.
+Description: # xeo-simple-calc
+        This is my first python library. It is a simple calculator.
+        
+        ## How to use
+        First, install the library
+        ```python
+        pip install xeo-simple-calc==0.0.3
+        ```
+        Next, import it
+        ```python
+        from xeosimplecalc import *
+        ```
+        ## Commands
+        ```python
+        add(a,b)
+        subtract(a,b)
+        multiply(a,b)
+        float_divide(a,b)
+        int_divide(a,b)
+        ```
+        ```python
+        float_divide()
+        ``` 
+        returns a float
+        ```python
+        int_divide()
+        ``` 
+        returns an int
         
         Change Log
         ==========
         
-        0.0.2 (12.06.2020)
+        0.0.3 (12.06.2020)
         ------------------
-        - Removed divide() function
-        - Added float_divide() and int_divide() functions
+        - Updated setup.py
+        - Completely rewrote README.md
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

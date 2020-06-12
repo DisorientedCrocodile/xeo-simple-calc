@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-0.0.2 (12.06.2020)
+0.0.3 (12.06.2020)
 ------------------
-- Removed divide() function
-- Added float_divide() and int_divide() functions
+- Updated setup.py
+- Completely rewrote README.md

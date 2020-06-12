@@ -1,7 +1,7 @@
 CHANGELOG.txt
 LICENSE.txt
 MANIFEST.in
-README.txt
+README.md
 setup.py
 xeo_simple_calc.egg-info/PKG-INFO
 xeo_simple_calc.egg-info/SOURCES.txt
