@@ -1,0 +1,7 @@
+Change Log
+==========
+
+0.0.2 (12.06.2020)
+------------------
+- Removed divide() function
+- Added float_divide() and int_divide() functions

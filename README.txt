@@ -1,0 +1,2 @@
+This is a calculator made with a yt tutorial. You can add, subtract, multiply or divide 2 numbers. The functions are add() subtract() multiply() float_divide() and int_divide()
+float_divide() returns a float, int_divide() returns an int.
