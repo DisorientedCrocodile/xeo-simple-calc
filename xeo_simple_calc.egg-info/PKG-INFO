@@ -1,6 +1,6 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: xeo-simple-calc
-Version: 0.0.3
+Version: 0.0.4
 Summary: A small basic calculator
 Home-page: https://github.com/XeoPlay/xeo-simple-calc
 Author: XeoPlay
@@ -38,12 +38,13 @@ Description: # xeo-simple-calc
         Change Log
         ==========
         
-        0.0.3 (12.06.2020)
+        0.0.4 (12.06.2020)
         ------------------
         - Updated setup.py
-        - Completely rewrote README.md
+        - Added .gitignore (for the git repository)
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
+Description-Content-Type: text/markdown

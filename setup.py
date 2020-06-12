@@ -7,11 +7,12 @@ with open("CHANGELOG.txt", "r") as CHANGELOG:
 
 setuptools.setup(
     name="xeo_simple_calc",
-    version="0.0.3",
+    version="0.0.4",
     author="XeoPlay",
     author_email="xeoplay123456@gmail.com",
     description="A small basic calculator",
     long_description=long_description + "\n\n" + changes,
+    long_description_content_type="text/markdown",
     url="https://github.com/XeoPlay/xeo-simple-calc",
     packages=setuptools.find_packages(),
     classifiers=[

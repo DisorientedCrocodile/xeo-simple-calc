@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-0.0.3 (12.06.2020)
+0.0.4 (12.06.2020)
 ------------------
 - Updated setup.py
-- Completely rewrote README.md
+- Added .gitignore (for the git repository)
