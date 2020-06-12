@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: xeo-simple-calc
-Version: 0.0.4
+Version: 0.0.5
 Summary: A small basic calculator
 Home-page: https://github.com/XeoPlay/xeo-simple-calc
 Author: XeoPlay
@@ -12,7 +12,7 @@ Description: # xeo-simple-calc
         ## How to use
         First, install the library
         ```python
-        pip install xeo-simple-calc==0.0.3
+        pip install xeo-simple-calc
         ```
         Next, import it
         ```python
@@ -38,10 +38,9 @@ Description: # xeo-simple-calc
         Change Log
         ==========
         
-        0.0.4 (12.06.2020)
+        0.0.5 (12.06.2020)
         ------------------
-        - Updated setup.py
-        - Added .gitignore (for the git repository)
+        - Fixed mistake in README.md
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

@@ -7,7 +7,7 @@ with open("CHANGELOG.txt", "r") as CHANGELOG:
 
 setuptools.setup(
     name="xeo_simple_calc",
-    version="0.0.4",
+    version="0.0.5",
     author="XeoPlay",
     author_email="xeoplay123456@gmail.com",
     description="A small basic calculator",

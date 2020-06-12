@@ -4,7 +4,7 @@ This is my first python library. It is a simple calculator.
 ## How to use
 First, install the library
 ```python
-pip install xeo-simple-calc==0.0.3
+pip install xeo-simple-calc
 ```
 Next, import it
 ```python
