@@ -12,17 +12,31 @@ from xeosimplecalc import *
 ```
 ## Commands
 ```python
-add(a,b)
-subtract(a,b)
-multiply(a,b)
-float_divide(a,b)
-int_divide(a,b)
+add(num1, num2)
 ```
+Adds two numbers.
+
 ```python
-float_divide()
-``` 
-returns a float
+subtract(num1, num2)
+```
+Subtracts two numbers.
+
 ```python
-int_divide()
-``` 
-returns an int
+multiply(num1, num2)
+```
+Multiplies two numbers.
+
+```python
+divide(num1, num2)
+```
+Divides two numbers. (returns a float)
+
+```python
+exponentiation(num, degree)
+```
+Exponentiates a number to a certain degree. (Sorry the English is bad :-))
+
+```python
+square_root(num)
+```
+Returns the square root of num. (returns a float)
