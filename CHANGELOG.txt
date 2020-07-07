@@ -1,8 +1,6 @@
 Change Log
 ==========
 
-0.0.6 (17.06.2020)
+0.0.7 (07.07.2020)
 ------------------
-- Replaced float_divide() and int_divide() with divide()
-- Added exponentiation() and square_root()
-- Updated README.md
+- Moved all functions into a class.

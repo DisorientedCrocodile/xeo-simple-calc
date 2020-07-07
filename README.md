@@ -10,33 +10,37 @@ Next, import it
 ```python
 from xeosimplecalc import *
 ```
+Then do
+```python
+c = Calc()
+```
 ## Commands
 ```python
-add(num1, num2)
+c.add(num1, num2)
 ```
 Adds two numbers.
 
 ```python
-subtract(num1, num2)
+c.subtract(num1, num2)
 ```
 Subtracts two numbers.
 
 ```python
-multiply(num1, num2)
+c.multiply(num1, num2)
 ```
 Multiplies two numbers.
 
 ```python
-divide(num1, num2)
+c.divide(num1, num2)
 ```
 Divides two numbers. (returns a float)
 
 ```python
-exponentiation(num, degree)
+c.exponentiation(num, degree)
 ```
 Exponentiates a number to a certain degree. (Sorry the English is bad :-))
 
 ```python
-square_root(num)
+c.square_root(num)
 ```
 Returns the square root of num. (returns a float)
