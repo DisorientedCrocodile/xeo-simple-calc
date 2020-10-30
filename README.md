@@ -44,3 +44,6 @@ Exponentiates a number to a certain degree. (Sorry the English is bad :-))
 c.square_root(num)
 ```
 Returns the square root of num. (returns a float)
+
+## Link to PYPI page
+[here](https://pypi.org/project/xeo-simple-calc/)
